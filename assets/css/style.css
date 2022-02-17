@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* changed div to header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -32,13 +32,23 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
+header nav {
     list-style-type: none;
 }
 
-header nav ul li {
+/* Added padding and transition */
+header nav {
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 9px;
+    padding: 4px 8px;
+    transition: all 243ms ease;
+}
+/* Added hover for nav a */
+nav a:hover{
+    background-color: #d9dcd6;
+    color: #2a607c;
+    border-radius: 4px;
+    
 }
 
 a {
