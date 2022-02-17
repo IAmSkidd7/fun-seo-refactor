@@ -12,7 +12,7 @@
 
 ## Description
 
-The refactoring of the Horiseon website occured when I edited the index.html file to remove tags with no semantic value and replace them them with semantic elements. The changed also occured in the style.css file.
+The refactoring of the Horiseon website occured when I edited the index.html file to remove tags with no semantic value and replace them with semantic elements. The changed also occured in the style.css file.
 
 ## Visuals
 
